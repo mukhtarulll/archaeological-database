@@ -3,13 +3,13 @@
 # Archaeological Research Management Database System
 ## Project: Database Design & Dashboard Visualization
 
-This project designs and implements a normalized relational database (MySQL) to manage archaeological research data, including expeditions, artifact discoveries, site locations, and laboratory results. An interactive dashboard built with Budibase provides real-time visualization of research activities and artifact analysis.
+This group project designs and implements a normalized relational database (MySQL) to manage archaeological research data, including expeditions, artifact discoveries, site locations, and laboratory results. An interactive dashboard built with Budibase provides real-time visualization of research activities and artifact analysis.
 
 ---
 
 ## Quick Summary
 
-![Archaeological Dashboard](/Dokumentasi%20BudiBase/Dashboard%20Awal.jpg)
+![Archaeological Dashboard](/Dokumentasi%20BudiBase/Dashboard%20Awal.png)
 
 Dashboard displays:
 - **Total 11 Artifacts** discovered by **5 Archaeologists** across **9 Sites**
@@ -25,7 +25,7 @@ Dashboard displays:
 ### Entity-Relationship Diagram (ERD)
 Database uses normalized **star schema** with 7 main entities:
 
-![ERD](ERD%20Arkeolog.drawio.png)
+![ERD](ERD%20Arkeolog.drawio.jpg)
 
 ### Main Tables
 
