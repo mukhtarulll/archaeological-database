@@ -5,6 +5,8 @@
 
 This group project designs and implements a normalized relational database (MySQL) to manage archaeological research data, including expeditions, artifact discoveries, site locations, and laboratory results. An interactive dashboard built with Budibase provides real-time visualization of research activities and artifact analysis.
 
+**Disclaimer: Dashboard documentation wasn't the final product, I only use the prior documentation and/or that left from this project**
+
 ---
 
 ## Quick Summary
