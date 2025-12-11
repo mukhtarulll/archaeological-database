@@ -5,6 +5,8 @@
 
 Proyek kelompok ini merancang dan mengimplementasikan basis data relasional ternormalisasi (MySQL) untuk mengelola data penelitian arkeologi, termasuk ekspedisi, penemuan artefak, lokasi situs, dan hasil laboratorium. Dashboard interaktif dibangun menggunakan Budibase untuk visualisasi real-time aktivitas penelitian dan analisis artefak.
 
+**Disclaimer: Dokumentasi dashboard saat pengerjaan tidak lengkap, jadi saya hanya menggunakan dokumentasi awal dan/atau yang tersisa**
+
 ---
 
 ## Ringkasan Singkat
